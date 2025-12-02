@@ -1,0 +1,9 @@
+TODO  
+quitar la barra de busqueda LISTO 
+añadir los filtros de busquedad LISTO
+poblar la base de datos con mas productos LISTO
+
+validaciones en los campos 
+
+manejo de errores con notificaciones
+que no se pueda ir al carrito o agregar al carrito sin estar logeado LISTO
